@@ -1,0 +1,61 @@
+SessionID,RoomID,Course,Dept,Day,StartTime,EndTime,Planned_Students,Week
+S1,R101,Calc I,Math,Mon,09:00,10:00,55,2
+S2,R101,Calc I,Math,Thu,10:00,11:00,55,2
+S3,R201,Design I,Arts,Fri,09:00,10:00,30,1
+S4,R102,Chem Lab,Chem,Mon,11:00,13:00,22,5
+S5,R301,Guest Talk,Dean,Wed,15:00,16:30,70,3
+S6,R101,Calc I,Math,Fri,09:00,10:00,57,5
+S7,R101,Calc I,Math,Thu,10:00,11:00,49,5
+S8,R201,Design I,Arts,Fri,09:00,10:00,30,6
+S9,R102,Chem Lab,Chem,Wed,11:00,13:00,23,5
+S10,R301,Guest Talk,Dean,Tue,15:00,16:30,61,6
+S11,R101,Calc I,Math,Thu,09:00,10:00,52,5
+S12,R101,Calc I,Math,Mon,10:00,11:00,61,6
+S13,R201,Design I,Arts,Tue,09:00,10:00,33,5
+S14,R102,Chem Lab,Chem,Thu,11:00,13:00,19,3
+S15,R301,Guest Talk,Dean,Thu,15:00,16:30,73,2
+S16,R101,Calc I,Math,Mon,09:00,10:00,56,7
+S17,R101,Calc I,Math,Wed,10:00,11:00,63,3
+S18,R201,Design I,Arts,Tue,09:00,10:00,26,5
+S19,R102,Chem Lab,Chem,Wed,11:00,13:00,21,2
+S20,R301,Guest Talk,Dean,Fri,15:00,16:30,61,4
+S21,R3557,Physics Lab,Dean,Mon,08:00,09:00,23,5
+S22,R3933,Calc II,Math,Fri,13:00,14:00,15,6
+S23,R2932,Physics Lab,Physics,Wed,12:00,13:00,79,5
+S24,R1892,Design II,Arts,Thu,15:00,16:00,26,3
+S25,R1940,Guest Talk,Math,Wed,15:00,16:00,22,8
+S26,R3953,Design II,EE,Tue,13:00,14:00,32,5
+S27,R3263,Physics Lab,EE,Thu,14:00,15:00,79,7
+S28,R5819,Design I,Physics,Thu,10:00,11:00,41,6
+S29,R1116,Calc I,EE,Mon,16:00,17:00,52,5
+S30,R1940,Physics Lab,Arts,Thu,11:00,12:00,95,8
+S31,R5819,Chem Lab,Physics,Thu,11:00,12:00,46,2
+S32,R101,Physics Lab,CS,Tue,16:00,17:00,51,8
+S33,R3969,Seminar,Dean,Fri,10:00,11:00,25,7
+S34,R102,Physics Lab,Physics,Thu,13:00,14:00,23,5
+S35,R4764,Design II,Chem,Tue,14:00,15:00,53,6
+S36,R101,Design I,Physics,Mon,11:00,12:00,77,5
+S37,R401,Design II,EE,Thu,12:00,13:00,89,3
+S38,R5819,Guest Talk,Math,Tue,10:00,11:00,71,7
+S39,R2844,Calc II,Dean,Thu,08:00,09:00,22,2
+S40,R3969,Calc I,Arts,Wed,16:00,17:00,53,3
+S41,R1463,Guest Talk,Arts,Wed,15:00,16:00,92,5
+S42,R1489,Calc I,Math,Mon,13:00,14:00,28,7
+S43,R1737,Seminar,CS,Thu,15:00,16:00,35,4
+S44,R3557,Calc I,Dean,Mon,15:00,16:00,97,4
+S45,R1463,Guest Talk,Dean,Wed,09:00,10:00,86,1
+S46,R2932,Calc II,Math,Fri,08:00,09:00,74,1
+S47,R3903,Chem Lab,Dean,Fri,12:00,13:00,87,1
+S48,R5620,Physics Lab,Math,Fri,09:00,10:00,16,1
+S49,R1899,Chem Lab,EE,Fri,08:00,09:00,66,7
+S50,R301,Chem Lab,Math,Wed,08:00,09:00,33,7
+S51,R1899,Design II,Arts,Tue,12:00,13:00,22,7
+S52,R3670,Seminar,Dean,Fri,09:00,10:00,61,1
+S53,R1485,Guest Talk,Dean,Fri,10:00,11:00,27,1
+S54,R1272,Design I,Chem,Fri,16:00,17:00,60,3
+S55,R2844,Design II,EE,Thu,10:00,11:00,27,5
+S56,R1899,Design II,EE,Mon,12:00,13:00,25,3
+S57,R1116,Seminar,Arts,Wed,16:00,17:00,40,4
+S58,R5819,Chem Lab,Chem,Wed,11:00,12:00,97,2
+S59,R2400,Guest Talk,Arts,Fri,09:00,10:00,65,6
+S60,R2404,Calc I,Chem,Tue,10:00,11:00,55,3
